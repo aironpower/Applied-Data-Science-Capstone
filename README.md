@@ -1,1 +1,1 @@
-# ML-Python-capstone-project
+# Applied-Data-Science-Capstone-project
